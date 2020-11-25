@@ -1,4 +1,4 @@
-﻿Województwo,Dzień,ID,Suma,Ludność,Wskaźnik,
+Województwo,Dzień,ID,Suma,Ludność,Wskaźnik,
 Śląskie,25.10,0,1134,4533565,250,
 Mazowieckie,25.10,13,1850,5403412,342,
 Małopolskie,25.10,9,1119,3400577,329,
@@ -511,4 +511,3 @@ Warmińsko-Mazurskie,25.11,11,858,1428983,600,
 Opolskie,25.11,1,459,986506,465,
 Podlaskie,25.11,6,449,1181533,380,
 Lubuskie,25.11,15,504,1014548,497,
-
